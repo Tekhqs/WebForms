@@ -1,0 +1,232 @@
+.RadSpreadsheet_Simple {
+  border-color: #cccccc;
+  color: #333333;
+  background-color: #ffffff; }
+  .RadSpreadsheet_Simple .rssToolbarWrapper {
+    border-color: #c7c7c7;
+    color: #000000;
+    background-color: #ededed; }
+  .RadSpreadsheet_Simple .rssTabstrip .rtsLevel1 {
+    border-color: #c7c7c7; }
+  .RadSpreadsheet_Simple .rssTabstrip .rtsLevel1 .rtsSelected .rtsLink {
+    border-color: #c7c7c7;
+    color: #000000;
+    background-color: #ededed; }
+  .RadSpreadsheet_Simple .rssFormulaBar {
+    border-color: #c7c7c7;
+    color: #333333;
+    background-color: #ffffff; }
+  .RadSpreadsheet_Simple .k-syntax-startexp {
+    font-weight: bold; }
+  .RadSpreadsheet_Simple .k-syntax-func {
+    font-weight: bold; }
+  .RadSpreadsheet_Simple .k-syntax-paren-match {
+    background-color: #caf200; }
+  .RadSpreadsheet_Simple .k-syntax-bool {
+    color: #a9169c; }
+  .RadSpreadsheet_Simple .k-syntax-num {
+    color: #0099ff; }
+  .RadSpreadsheet_Simple .k-syntax-str {
+    color: #38b714; }
+  .RadSpreadsheet_Simple .k-syntax-ref {
+    color: #ff8822; }
+  .RadSpreadsheet_Simple .k-syntax-error {
+    color: red; }
+  .RadSpreadsheet_Simple .rssSheetsbar {
+    border-color: #c7c7c7;
+    color: #000000;
+    background-color: #ededed; }
+    .RadSpreadsheet_Simple .rssSheetsbar .t-spreadsheet-sheets-bar-add:hover {
+      border-color: #c7c7c7;
+      color: #000000;
+      background-color: #ededed; }
+  .RadSpreadsheet_Simple .rssPane {
+    border-color: #cccccc;
+    color: #333333;
+    background-color: #ffffff; }
+  .RadSpreadsheet_Simple .rssTopCorner {
+    border-color: #c7c7c7;
+    color: #000000;
+    background-color: #ededed; }
+  .RadSpreadsheet_Simple .rssRowHeader,
+  .RadSpreadsheet_Simple .rssColumnHeader {
+    border-color: #c7c7c7;
+    color: #000000;
+    background-color: #ededed; }
+  .RadSpreadsheet_Simple .rssRowHeader > div:hover,
+  .RadSpreadsheet_Simple .rssColumnHeader > div:hover {
+    border-color: #ffc350;
+    color: #882501;
+    background-color: #ffe79c; }
+  .RadSpreadsheet_Simple .rssRowHeader .k-selection-partial,
+  .RadSpreadsheet_Simple .rssColumnHeader .k-selection-partial {
+    border-color: #ca4900;
+    color: #882501;
+    background-color: #ffa517; }
+    .RadSpreadsheet_Simple .rssRowHeader .k-selection-partial:before,
+    .RadSpreadsheet_Simple .rssColumnHeader .k-selection-partial:before {
+      border-color: #882501; }
+  .RadSpreadsheet_Simple .rssSelection {
+    border-color: #882501;
+    background-color: rgba(136, 37, 1, 0.2);
+    box-shadow: 0 0 0 1px #882501; }
+    .RadSpreadsheet_Simple .rssSelection:after {
+      border-color: #ffffff;
+      background-color: #882501; }
+  .RadSpreadsheet_Simple .rssActiveCell {
+    border-color: #882501;
+    background-color: #ffffff; }
+  .RadSpreadsheet_Simple .k-auto-fill {
+    border-color: #882501;
+    box-shadow: inset 0 0 0 1px #882501; }
+  .RadSpreadsheet_Simple .k-tooltip {
+    border-color: #cccccc;
+    color: #333333;
+    background-color: #ffffff; }
+  .RadSpreadsheet_Simple .rssCellEditor {
+    color: #333333;
+    background-color: #ffffff; }
+  .RadSpreadsheet_Simple .k-spreadsheet-editor-button {
+    border-color: #c7c7c7;
+    color: #000000;
+    background-color: #ededed; }
+    .RadSpreadsheet_Simple .k-spreadsheet-editor-button:hover {
+      border-color: #ffc350;
+      color: #882501;
+      background-color: #ffe79c; }
+  .RadSpreadsheet_Simple .k-spreadsheet-merged-cell {
+    background-color: #ffffff; }
+  .RadSpreadsheet_Simple .k-resize-handle,
+  .RadSpreadsheet_Simple .k-resize-hint-handle,
+  .RadSpreadsheet_Simple .k-resize-hint-marker {
+    background-color: #ca4900; }
+  .RadSpreadsheet_Simple .k-filter-range {
+    border-color: #ca4900; }
+  .RadSpreadsheet_Simple .k-spreadsheet-filter {
+    border-color: #c7c7c7;
+    color: #000000;
+    background-color: #ededed;
+    box-shadow: inset 0 0 0 1px #c7c7c7; }
+  .RadSpreadsheet_Simple .k-spreadsheet-filter:hover {
+    border-color: #ffc350;
+    color: #882501;
+    background-color: #ffe79c;
+    box-shadow: inset 0 0 0 1px #ffc350; }
+
+.rssSkin .t-button,
+.rssSkin .rssButton {
+  border-color: #c7c7c7;
+  color: #000000;
+  background-color: #ededed; }
+
+.rssSkin .t-button:hover,
+.rssSkin .t-button.t-state-hover,
+.rssSkin .rssButton.rssHovered {
+  border-color: #ffc350;
+  color: #882501;
+  background-color: #ffe79c; }
+
+.rssSkin .rssButton.rssPrimary {
+  border-color: #e69600;
+  color: #000000;
+  background-color: #ffcd33; }
+
+.rssSkin .rssButton.rssPrimary.rssHovered {
+  border-color: #ffc350;
+  color: #882501;
+  background-color: #ffe79c; }
+
+.rssSkin .t-tabstrip .t-state-hover {
+  border-color: #ffc350;
+  color: #882501;
+  background-color: #ffe79c; }
+
+.rssSkin .t-tabstrip .t-state-active {
+  border-color: #cccccc;
+  color: #333333;
+  background-color: #ffffff;
+  background-image: none; }
+
+.rssSkin .t-tabstrip-bottom > .t-tabstrip-items .t-item {
+  border-radius: 0; }
+
+.rssSkin .t-spreadsheet-sheets-remove.t-state-hover {
+  color: #d51923; }
+
+.rssSkin .rssInput {
+  border-color: #c7c7c7;
+  color: #333333;
+  background-color: #ffffff; }
+
+.rssSkin .rssMenu .rssHovered > .rssLink {
+  border-color: #ffe79c;
+  color: #882501;
+  background-color: #ffe79c; }
+
+.rssSkin .rssMenu .rssSelected > .rssLink {
+  border-color: #ffa517;
+  color: #882501;
+  background-color: #ffa517; }
+
+.rssSkin .rssCollapsibleList .rssHovered > .rssLink {
+  border-color: #ffe79c;
+  color: #882501;
+  background-color: #ffe79c; }
+
+.rssSkin .rssCollapsibleList .rssExpanded > .rssLink {
+  border-color: transparent;
+  color: inherit;
+  background: none; }
+
+.rssPopup {
+  border-color: #cccccc;
+  color: #333333;
+  background-color: #ffffff;
+  box-shadow: 3px 3px 3px #cccccc; }
+  .rssPopup .rssFilterMenu:before {
+    border-color: white;
+    background: white; }
+  .rssPopup .rssSeparator {
+    border-color: #e6e6e6 white white #e6e6e6; }
+
+html .rssToolbar .rtbPopup {
+  border-radius: 0; }
+
+.rssWindow {
+  border-color: #c7c7c7;
+  color: #000000;
+  background-color: #ededed;
+  box-shadow: 0 0 5px #c7c7c7; }
+  .rssWindow .rssWindowTitlebar {
+    border-color: #c7c7c7;
+    color: #000000;
+    background-color: #ededed; }
+  .rssWindow .rssWindowAction {
+    border-color: transparent; }
+  .rssWindow .rssWindowAction:hover {
+    border-color: #ffc350;
+    color: #882501;
+    background-color: #ffe79c; }
+  .rssWindow .rssWindowContent {
+    border-color: #cccccc;
+    color: #333333;
+    background-color: #ffffff; }
+  .rssWindow .rssWindowTabstrip {
+    background-color: #ededed; }
+    .rssWindow .rssWindowTabstrip .rtsLevel1 .rtsSelected .rtsLink {
+      color: #333333;
+      background: #ffffff; }
+  .rssWindow hr {
+    border-color: #cccccc; }
+
+.rssFormulaList {
+  border-color: #cccccc;
+  color: #333333;
+  background-color: #ffffff; }
+  .rssFormulaList .k-item.k-state-hover {
+    color: #882501;
+    background-color: #ffe79c; }
+  .rssFormulaList .k-item.k-state-focused {
+    color: #882501;
+    background-color: #ffa517; }
+
